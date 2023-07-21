@@ -1,7 +1,7 @@
 # Classification performance thresholds for BERT-based models on COVID-19 Twitter misinformation
 
 ## Paper Link:
-// 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4489865
 
 ## File and Directory Descriptions
 
